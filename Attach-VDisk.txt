@@ -1,0 +1,4 @@
+select VDisk file = “C:\Windows\CERT.vhd”
+attach VDisk
+sel vol 4
+assign letter=a
